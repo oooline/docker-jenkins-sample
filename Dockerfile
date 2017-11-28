@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM registry.docker-cn.com/library/ubuntu:16.04
 MAINTAINER Leon "test@weippt.com"
 ENV REFRESHED_AT 2017-07-15
 RUN apt-get update
